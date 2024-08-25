@@ -1,0 +1,11 @@
+SETARA_Website\stepDefinitions\InfoSaldo_Steps.class
+SETARA_Website\BaseTest.class
+SETARA_Website\pages\HomePage.class
+SETARA_Website\stepDefinitions\EWallet_Steps.class
+SETARA_Website\TestSuite.class
+SETARA_Website\pages\EWallet.class
+SETARA_Website\stepDefinitions\Login_Steps.class
+SETARA_Website\stepDefinitions\TransferAntarBCA_Steps.class
+SETARA_Website\pages\InfoSaldo.class
+SETARA_Website\pages\Login.class
+SETARA_Website\pages\TransferAntarBCA.class

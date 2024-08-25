@@ -1,0 +1,4 @@
+# Created at 2024-08-21T11:55:36.052
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Kuliah\Synrgy-Bootcamp\Capstone\TestingWebsite_Team8\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
